@@ -29,3 +29,5 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=77080E&fontSize=14&fontAlign=83&fontColor=E1FDFE&animation=scaleIn&section=footer"/>
+
+
