@@ -8,21 +8,20 @@
 
 ## Repository intended to hold exercises to consolidate the Python language.
 
-## Array:
+## Loops:
 
-- Arrays allow for the ordered storage of similar data.
-- Index is the position of each item in the list, always starting at zero.
-- The last item in the list always has index = length - 1
+Os loops nos permitem repetir um bloco de código várias vezes. Em Python, os loops mais comuns são for e while.
+
+- For - O loop for é utilizado para iterar sobre uma sequência (como uma lista, uma tupla ou uma string) ou qualquer objeto iterável. 
+- While - O loop while é utilizado para repetir um bloco de código enquanto uma condição for verdadeira. 
 
 <hr>
 
-## Array Methods:
+## Controle de Loops:
 
-- length - returns the size of the array.
-- push() - adds an element to the end of the array.
-- pop() - removes the last element from the array.
-- shift() - removes the first element from the array.
-- unshift() - adds the first element from the array.
+- Break - A instrução break é utilizada para sair prematuramente de um loop, independentemente da condição. Quando um break é encontrado, o loop é interrompido e o fluxo de execução continua com a próxima instrução fora do loop.
+- Continue - A instrução continue é utilizada para pular o restante do bloco de código dentro de um loop e passar para a próxima iteração.
+- Pass - A instrução pass é uma operação nula que não faz nada. É utilizada como um marcador de posição quando uma instrução é sintaticamente necessária, mas nenhuma ação é desejada.
 
 <div align="center">
     <img width="200" src="a-logo-design-in-an-oriental-style-featu_i-4pO2wTT92w3TENQ8Gg6A_naugfvo1SRq3Q7v-Y8cNlA.png"/>
